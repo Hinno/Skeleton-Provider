@@ -1,4 +1,4 @@
-# reactiveprovider
+# skeletonprovider
 
 Straight forward package that help you to deal with provider UI build 
 
